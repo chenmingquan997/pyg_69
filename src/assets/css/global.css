@@ -1,0 +1,19 @@
+/* 全局样式 */
+body,
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.el-card{
+  margin-top: 15px;
+}
+.el-table{
+  margin-top: 15px;
+}
+.el-pagination {
+  float: right;
+}
